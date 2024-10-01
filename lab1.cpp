@@ -2,7 +2,7 @@
 #include<list>
 #include<iterator>
 #include<cmath>
-
+//добавил комментарий
 struct farey_num {
     int nominator;
     int denominator;
